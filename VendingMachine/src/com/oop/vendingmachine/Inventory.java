@@ -15,7 +15,7 @@ public class Inventory<T> {
         inventory.put(t,inventory.getOrDefault(t,0) + 1);
     }
 
-    public void remove(T t){
+    public void deduct(T t){
         int count = inventory.getOrDefault(t,0);
         if(count > 1){
             inventory.put(t,count - 1);
@@ -30,5 +30,9 @@ public class Inventory<T> {
 
     public void put(T t,int count){
         inventory.put(t,count);
+    }
+
+    public void clear(){
+        inventory.clear();
     }
 }

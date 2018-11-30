@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Catalog/Catalog.iml" filepath="$PROJECT_DIR$/Catalog/Catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLotSystem/ParkingLotSystem.iml" filepath="$PROJECT_DIR$/ParkingLotSystem/ParkingLotSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/Sort.iml" filepath="$PROJECT_DIR$/DataStructures/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/Trie.iml" filepath="$PROJECT_DIR$/DataStructures/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
+    </modules>
+  </component>
+</project>
